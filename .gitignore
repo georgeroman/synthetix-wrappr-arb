@@ -1,0 +1,9 @@
+# Dependencies
+node_modules
+
+# Hardhat
+cache
+artifacts
+
+# Secrets
+.env
